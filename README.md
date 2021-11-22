@@ -5,7 +5,7 @@ Basic Overview:
 
 Login before adding to cart:
 
-![Alt Text](https://media.giphy.com/media/nEHEJdOfCnwmAZwZg1/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Eq3uHKCZDRyUugmeZv/giphy.gif)
 
 Login + cart:
 
